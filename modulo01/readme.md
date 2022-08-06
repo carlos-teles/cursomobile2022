@@ -1,4 +1,4 @@
-# Curso MObile Senai 2022
+# Curso Desenvolvedor Mobile Senai 2022
 ###### Modulo 01 - 5 aulas - 4 horas cada - Total 20 horas
 
 -**Aula 01 - dia01_curso.pdf**  
