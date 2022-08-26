@@ -1,0 +1,4 @@
+1 - Abrir o VScode via atalho da área de trabalho
+2 - Abrir um novo terminal (New Terminal)
+3 - Para criar um novo projeto -> expo init <nome_projeto> -> Exemplo: expo init 001-projeto
+4 - Iniciar o ambiente do expo do projeto -> cd 001-projeto; expo start ou expo start 001-projeto
