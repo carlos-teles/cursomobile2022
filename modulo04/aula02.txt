@@ -1,0 +1,17 @@
+###################################################################
+API
+http://www.newssystems.eti.br/site/_arquivos/_download/materiais/API-Ebook.pdf
+###################################################################
+JSON
+JSON is a data interchange format that is easy to parse and generate.
+
+https://edisciplinas.usp.br/pluginfile.php/5165402/mod_resource/content/2/mac439_aula5_json.pdf
+###################################################################
+
+###################################################################
+https://docs.expo.dev/versions/latest/sdk/location/
+###################################################################
+https://home.openweathermap.org/
+###################################################################
+https://raw.githubusercontent.com/MuhammadTaimour95/Weather-App-React-Native/main/App.js
+###################################################################
