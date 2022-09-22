@@ -11,3 +11,6 @@ http://www.gileduardo.com.br/ifpr/pp_rn/
 https://www.webdesignemfoco.com/cursos/react-js/meu-primeiro-app-com-react-native-07-screens-e-buttons
 
 https://fei.edu.br/~gwachs/disciplinas/CC4670/
+
+
+https://blog.swmansion.com/how-to-build-and-distribute-any-react-native-app-with-new-expo-services-529a56cec852
