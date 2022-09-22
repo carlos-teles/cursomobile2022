@@ -31,25 +31,26 @@ Logged in as carlosalbertoteles
 C:\portable\projects\103-projeto>
 
 Criar o arquivo eas.json
-Conteúdo do eas.json
-{
-  "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
+
+    Conteúdo do eas.json
+    {
+      "build": {
+        "preview": {
+          "android": {
+            "buildType": "apk"
+          }
+        },
+        "preview2": {
+          "android": {
+            "gradleCommand": ":app:assembleRelease"
+          }
+        },
+        "preview3": {
+          "developmentClient": true
+        },
+        "production": {}
       }
-    },
-    "preview2": {
-      "android": {
-        "gradleCommand": ":app:assembleRelease"
-      }
-    },
-    "preview3": {
-      "developmentClient": true
-    },
-    "production": {}
-  }
-}
+    }
 
 
 C:\portable\projects\103-projeto>eas build -p android --profile preview
