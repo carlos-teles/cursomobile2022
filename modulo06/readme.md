@@ -14,3 +14,6 @@ https://fei.edu.br/~gwachs/disciplinas/CC4670/
 
 
 https://blog.swmansion.com/how-to-build-and-distribute-any-react-native-app-with-new-expo-services-529a56cec852
+
+
+https://pagepro.co/blog/publishing-expo-react-native-app-to-ios-and-android/
