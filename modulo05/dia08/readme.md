@@ -39,9 +39,8 @@ Para o build, entre na pasta do projeto
 
     cd <seu-projeto>
 
-Criar o arquivo eas.json
+Criar o arquivo eas.json pasta do projeto. Segue o conteúdo do eas.json abaixo
 
-    Conteúdo do eas.json
     {
       "build": {
         "preview": {
