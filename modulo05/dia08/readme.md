@@ -60,14 +60,16 @@ Criar o arquivo eas.json pasta do projeto. Segue o conteúdo do eas.json abaixo
       }
     }
 
+Para fazer o build da plataforma android
 
-C:\portable\projects\103-projeto>eas build -p android --profile preview
-✔ Created @carlosalbertoteles/103-projeto (https://expo.dev/accounts/carlosalbertoteles/projects/103-projeto) on Expo
+    eas build -p android --profile preview
+    
+    ✔ Created @carlosalbertoteles/103-projeto (https://expo.dev/accounts/carlosalbertoteles/projects/103-projeto) on Expo
 
-https://github.com/expo/fyi/blob/main/android-package.md
+    https://github.com/expo/fyi/blob/main/android-package.md
 
-✔ Created keystore                                         roid-package
-                                                           . com.pausa.testebutton
+    ✔ Created keystore
+                                                           
 Compressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
 ✔ Uploaded to EAS 5s
 
