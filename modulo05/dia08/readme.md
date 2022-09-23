@@ -2,33 +2,42 @@ https://dev.to/chinmaymhatre/how-to-generate-apk-using-react-native-expo-kae
 
 https://github.com/expo/fyi/blob/main/android-package.md
 
-C:\portable\projects>npm install --global eas-cli
+    npm install --global eas-cli
 
-added 343 packages, and audited 344 packages in 39s
+    added 343 packages, and audited 344 packages in 39s
 
-33 packages are looking for funding
-  run `npm fund` for details
+    33 packages are looking for funding
+    run `npm fund` for details
 
-2 high severity vulnerabilities
+    2 high severity vulnerabilities
 
-Some issues need review, and may require choosing
-a different dependency.
+    Some issues need review, and may require choosing
+    a different dependency.
 
-Run `npm audit` for details.
+    Run `npm audit` for details.
 
 
 Acessar a URL: https://expo.dev/signup
 
-C:\portable\projects>expo login
-√ Username/Email Address: ... carlos_alberto_teles@hotmail.com
-√ Password: ... *************
+Após criar o cadasto via linha de comando
 
-Success. You are now logged in as carlosalbertoteles.
+        expo login
+        √ Username/Email Address: ... carlos_********_*******@hotmail.com
+        √ Password: ... *************
 
-C:\portable\projects\103-projeto>expo whoami
-Logged in as carlosalbertoteles
+    Success. You are now logged in as carlosalbertoteles.
 
-C:\portable\projects\103-projeto>
+Para garantir que está logado em sua conta expo execute:
+
+    expo whoami
+
+A resposta deverá ser:
+
+    Logged in as carlosalbertoteles
+
+Para o build, entre na pasta do projeto
+
+    cd <seu-projeto>
 
 Criar o arquivo eas.json
 
